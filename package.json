@@ -1,0 +1,13 @@
+{
+  "name": "statsd-guard",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
